@@ -2,8 +2,9 @@ MysqlJdbc
 ===========================
 
 #########环境依赖
-    HotSpot Jdk 1.80
-    mvn Version 4.18.0
+   
+    1、HotSpot Jdk 1.80
+    2、mvn Version 4.18.0
 
 
 #######JDBC简介
